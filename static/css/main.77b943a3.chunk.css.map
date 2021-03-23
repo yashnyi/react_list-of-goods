@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","GoodsList.css"],"names":[],"mappings":"AAAA,KACE,YACF,CCFA,YACE,eACF","file":"main.77b943a3.chunk.css","sourcesContent":[".App {\n  padding: 20px;\n}\n",".goods-list {\n  max-width: 400px;\n}\n"]}
